@@ -7,3 +7,14 @@ This is a simple guessing game. At the start, a random number is automatically g
 3. Triggering events to change elements of the DOM tree
 ![images](https://github.com/humanlasthope/guessNumbers/blob/master/start.png)
 ![images](https://github.com/humanlasthope/guessNumbers/blob/master/end.png)
+### About Code
+1. Used the flex layout:
+main {
+    /* position: relative; */
+    height: 65vh;
+    color: rgb(171, 255, 46);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+2.
